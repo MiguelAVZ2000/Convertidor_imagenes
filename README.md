@@ -2,8 +2,7 @@
 
 Este proyecto permite convertir imágenes entre diferentes formatos utilizando Python. El proyecto tiene dos versiones:
 
-1. **Versión de línea de comandos (CLI)**: Permite convertir imágenes de forma manual mediante la terminal.
-2. **Versión con interfaz gráfica (GUI)**: Permite convertir imágenes con una interfaz visual amigable utilizando Tkinter.
+1. Permite convertir imágenes de forma manual mediante la terminal.
 
 ## Requisitos
 
@@ -15,8 +14,11 @@ Este proyecto permite convertir imágenes entre diferentes formatos utilizando P
 Si no tienes la librería **Pillow** instalada, puedes instalarla con el siguiente comando:
 
 ```bash
+
 pip install Pillow
-#Uso
+
+Uso
+
 Abre la terminal o consola de comandos.
 Navega hasta el directorio del proyecto.
 Ejecuta el script con el siguiente comando:
