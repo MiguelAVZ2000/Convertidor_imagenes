@@ -1,5 +1,5 @@
 import os
-from PIL import Image
+from PIL import Image # type: ignore
 
 def listar_formatos_soportados():
     """Muestra los formatos de imagen soportados"""
