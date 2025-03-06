@@ -16,8 +16,7 @@ Si no tienes la librería **Pillow** instalada, puedes instalarla con el siguien
 
 ```bash
 pip install Pillow
-Uso
-Versión de línea de comandos (CLI)
+#Uso
 Abre la terminal o consola de comandos.
 Navega hasta el directorio del proyecto.
 Ejecuta el script con el siguiente comando:
