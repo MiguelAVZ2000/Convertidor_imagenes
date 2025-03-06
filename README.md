@@ -20,9 +20,9 @@ pip install Pillow
 Uso
 
 Abre la terminal o consola de comandos.
+
 Navega hasta el directorio del proyecto.
+
 Ejecuta el script con el siguiente comando:
-bash
-Copiar
-Editar
+
 python app.py
