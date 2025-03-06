@@ -1,7 +1,3 @@
-1. Contenido del archivo README.md
-markdown
-Copiar
-Editar
 # Convertidor de Imágenes
 
 Este proyecto permite convertir imágenes entre diferentes formatos utilizando Python. El proyecto tiene dos versiones:
